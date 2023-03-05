@@ -1,0 +1,4 @@
+name: LockerChest
+version: '${project.version}'
+main: plugin.core.Main
+api-version: 1.19

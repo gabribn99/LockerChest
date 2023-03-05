@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LockerChest">
+    <output-path>$USER_HOME$/Desktop/Server/plugins</output-path>
+    <root id="archive" name="LockerChest.jar">
+      <element id="module-output" name="LockerChest" />
+    </root>
+  </artifact>
+</component>
